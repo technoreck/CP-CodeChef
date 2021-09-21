@@ -1,4 +1,5 @@
 # CP-CodeChef
-competetive programming
+<h2>competetive programming</h2>
 here are some competetive question and their code from my side..
-anyone can contribute :) 
+feel free to contribute and push more efficient code if you have one...
+Thank You&#128512
